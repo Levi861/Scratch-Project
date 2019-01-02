@@ -10,6 +10,4 @@ Left Arrow | Right Arrow | Hold space bar
 Moves one lane left |Moves one lane right | Stops coin spin
 
 
->"This is my favorate game
->of all time" - David murry
-
+>"This is my favorate game of all time" - David Murrrrry
