@@ -11,5 +11,4 @@ Moves one lane left |Moves one lane right | Stops coin spin
 
 
 >"This is my favorite game of all time" - David Murrrrry
-
-Be sure to insert a link in <b> https://scratch.mit.edu/ </b>
+Play Game Here! </b> https://scratch.mit.edu/ </b>
