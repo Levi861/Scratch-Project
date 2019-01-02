@@ -1,2 +1,2 @@
-# Scratch-Project-1-2-2019
+# Scratch Project
 2018/19 New Glarus High school SIMM Project 
